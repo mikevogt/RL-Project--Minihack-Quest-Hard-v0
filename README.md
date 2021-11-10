@@ -1,7 +1,7 @@
 # RL Project: Minihack-Quest-Hard-v0
  This Github repository serves as the source code for completing the Minihack-Quest-Hard-v0 using Reinforcement Learning.
  
- Minihack is a wrapper environment around the nethack domain, created by the Facebook Research division. We implement the Duelling Double Deep-Q Learning and REINFORCE agents in an attempt to complete the Minihack-Quest-Hard-v0 environment, currently the most difficult environment provided by Minihack, without creating your own one. The agents can be found in the Agents folder.
+ Minihack is a wrapper environment around the nethack domain, created by the Facebook Research division. We implement the Duelling Double Deep-Q Learning and REINFORCE agents in an attempt to complete the Minihack-Quest-Hard-v0 environment - currently the most difficult environment provided by Minihack - without creating your own one. The agents can be found in the Agents folder.
  
  To run each agent, simply clone this github repositoy. Locate the agents folder you want to train within \Agents. 
  
@@ -15,5 +15,5 @@
  
  ## Contributors
  
- Michael Vogt
+ Michael Vogt,
  Nicholas Baard
