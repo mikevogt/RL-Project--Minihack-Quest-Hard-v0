@@ -9,7 +9,6 @@
  To run the Duelling Reinforce agent, open the folder in your terminal and run: $python main.py.
  
  To run these agents on different environments, open the .py file in your preferred IDE, choose an environment and repeat the run step above.
- [comment]: <> (To view the results of each agent, locate the associated agents folder within \Models and Results. There we have split the Quest-Hard-v0 into its 4 subquests, with models and their training reward and loss csv.'s saved for each agent.)
  
  ---
  
